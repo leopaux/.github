@@ -1,12 +1,18 @@
-## Hi there 👋
+## Welcome to Leopaux! 👋 🦁
 
-<!--
+Website: https://leopaux.github.io/web/
 
-**Here are some ideas to get you started:**
+Main to-do list: https://github.com/orgs/leopaux/projects/1/views/1
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Main discussion: https://github.com/leopaux/web/discussions
+
+Here, we hope that you:
+
+- Ask questions you’re **wondering about**.
+- Share **ideas**.
+- Engage with other **Leopaux members**.
+- **Welcome others** and are **open-minded**.
+
+Thanks for checking this out!
+
+~ `@CodyDaCoder`
