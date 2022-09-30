@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://leopaux.github.io/web/">
-    <img src="LeopauxLogoTransparent.png" alt="Bootstrap logo" width="300" height="295">
+    <img src="LeopauxLogoTransparent.png" alt="Leopaux badge" width="300" height="295">
   </a>
 </p>
 
